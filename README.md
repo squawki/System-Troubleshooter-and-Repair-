@@ -51,3 +51,11 @@ This project is licensed under the MIT License - feel free to modify and use it 
 - It is not a replacement for real troubleshooting or system repairs. It is designed solely for **entertainment, simulation, and placebo** purposes.
 - **No actual system errors are fixed** — if your system has problems, this script won't solve them!
 - No warranty of any kind is implied or included
+
+## Download Script
+- Last Updated 09/11/2024
+<a href="[https://github.com/yourusername/yourrepo/raw/main/path/to/yourfile.extension](https://raw.githubusercontent.com/squawki/System-Troubleshooter-and-Repair-/refs/heads/main/STRT.bat)" download>
+    <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; cursor: pointer;">
+        Download Script
+    </button>
+</a>
