@@ -1,6 +1,8 @@
 # STRT- Fake System Repair Tool
 
 STRT is a harmless, **placebo-style** script designed to simulate a system repair tool for **system administrators** on end users machines who may need to force a reboot and give the impression that something was fixed. This script is **non-intrusive**, **does not make system changes**, and **poses no risk** to the system.
+![Main Console Screen](strt-mainscreen.png)
+
 
 ## Features
 
@@ -30,16 +32,17 @@ This script is designed primarily for **system administrators** who may need to 
 1. **Loading Banner**: Displays the system's basic information (CPU, RAM, OS) and gives the user the illusion of a professional repair process.
 2. **Fake Repairs**: Simulates tasks like scanning, registry fixing, etc.
 3. **Randomized Delays**: Adds a sense of realism by waiting between actions with random delays.
-4. **Reboot**: After completing the simulated repairs, a scheduled restart is triggered to give the user the impression that the system is being "repaired."
+4. **Reboot**: After completing the simulated repairs, a scheduled restart is triggered to give the user the impression that the system needs to be resarted to complete the "repair."
 
-## Getting Started
+## Usage
 
 To get started, simply download or clone the repository and run the batch file in any Windows environment. The script is designed to be simple and easy to run.
 
 1. Clone this repository or download the bat script script.
 2. Double click the script (no admin rights required).
 3. Watch as the script performs its "repairs" and forces a reboot after a couple of minutes.
-
+4. User is prompted to 'press any key' which prompts the script to close and restart. This schedules a 120 seconds countdown timer.
+5. Restart can be stopped by closing the script prior to the script closing or issuiing the 'shutdown -a' command in CMD to abort the shutdown/restart
 ## License
 
 This project is licensed under the MIT License - feel free to modify and use it as needed.
@@ -47,3 +50,4 @@ This project is licensed under the MIT License - feel free to modify and use it 
 ## Disclaimer
 - It is not a replacement for real troubleshooting or system repairs. It is designed solely for **entertainment, simulation, and placebo** purposes.
 - **No actual system errors are fixed** — if your system has problems, this script won't solve them!
+- No warranty of any kind is implied or included
