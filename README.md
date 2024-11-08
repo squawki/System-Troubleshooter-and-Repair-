@@ -55,8 +55,8 @@ This project is licensed under the MIT License - feel free to modify and use it 
 ## Download Script
 - Last Updated 09/11/2024
 
-<a href="https://raw.githubusercontent.com/squawki/System-Troubleshooter-and-Repair-/refs/heads/main/STRT.bat" download="STRT.bat">
+<a href="[https://raw.githubusercontent.com/yourusername/yourrepo/main/path/to/yourfile.bat](https://github.com/squawki/System-Troubleshooter-and-Repair-/releases/download/v3.58_Release/STRT.bat)" download>
     <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; cursor: pointer;">
-        Download Script
+        Download Batch File
     </button>
 </a>
